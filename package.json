@@ -1,0 +1,10 @@
+{
+  "name": "shablon",
+  "version": "0.1.0",
+  "description": "(EXP) No-build JavaScript frontend framework for Single-page applications",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
