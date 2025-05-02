@@ -1,6 +1,6 @@
 {
   "name": "shablon",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "(EXP) No-build JavaScript frontend framework for Single-page applications",
   "main": "src/index.js",
   "scripts": {
